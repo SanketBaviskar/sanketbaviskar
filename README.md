@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **SanketBaviskar/sanketbaviskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,6 +39,4 @@ I'm currently working on Rec-It a recreational management software for professio
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanketbaviskar) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
