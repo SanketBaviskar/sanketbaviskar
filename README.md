@@ -1,20 +1,22 @@
-## Hi there 👋
+## Hi there! 👋
 
+🚀 About Me
 
-**SanketBaviskar/sanketbaviskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sanket Baviskar, a Software Engineer passionate about designing and developing scalable applications. With 2 years of experience in software development, I have worked on both product development and team management. I am currently pursuing my Master's in Computer Science at CU Denver and actively looking for Software Development Engineer (SDE) roles.
 
-Here are some ideas to get you started:
+🔭 Currently working on: Rec-It, a recreational management software for professional rec centers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# 💫 About Me:
-I'm currently working on Rec-It a recreational management software for professional rec center<br>I'm 
+🌱 Currently learning: Advanced networking protocols, distributed systems, and AI-driven SaaS solutions.
+
+👯 Looking to collaborate on: Open-source projects related to AI, Web Development, and Cloud Computing.
+
+🤔 Looking for help with: Enhancing my firewall and CDN capabilities in networking protocols.
+
+💬 Ask me about: Software development, AI, cloud computing, and system design.
+
+📫 How to reach me: Email | LinkedIn | Twitter (X)
+
+⚡ Fun fact: I enjoy building 3D models in my PowerPoint presentations! 🎨
 
 
 ## 🌐 Socials:
