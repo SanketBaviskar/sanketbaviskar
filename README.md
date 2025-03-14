@@ -35,9 +35,7 @@ I'm Sanket Baviskar, a Software Engineer passionate about designing and developi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanketbaviskar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Leetcode Repo
-![](https://leetcard.jacoblin.cool/SSBaviskar?theme=dark&font=Noto%20Sans%20Mahajani&ext=activity)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/SSBaviskar?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanketbaviskar&icon=0&color=0)](https://visitcount.itsvg.in)
