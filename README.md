@@ -20,13 +20,13 @@ A backend service for API protection with multiple rate-limiting strategies.
 - Supports **sliding window**, token bucket–style logic, and per-key limits  
 - Designed as a building block toward **firewall/CDN-style safeguards** and intelligent throttling  
 
-### 🤖 [Personal AI Assistant](https://github.com/sanketbaviskar/personal-ai-assistant)  
+### 🤖 [Personal AI Assistant](https://github.com/SanketBaviskar/personal_ai_assistant)  
 Backend for a unified personal AI that connects apps into a single knowledge pool.  
 - **FastAPI** backend orchestrating calls to open-source LLMs + RAG  
 - Integrates **email, notes, calendar, and tasks** as structured data sources  
 - Focus on **API design, background processing, and data modeling** for extensible automation  
 
-### 🧘‍♂️ [YouTube Focus – Distraction-Free Chrome Extension](https://github.com/sanketbaviskar/youtube-focus)  
+### 🧘‍♂️ [YouTube Focus – Distraction-Free Chrome Extension](https://github.com/SanketBaviskar/youtube_focus_mode)  
 A Chrome extension that turns YouTube into a focused environment.  
 - Hides recommendations, comments, and distractions for deep-work sessions  
 - Built with lightweight **frontend logic**, but designed to support future backend analytics
