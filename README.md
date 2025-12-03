@@ -20,7 +20,7 @@ A backend service for API protection with multiple rate-limiting strategies.
 - Supports **sliding window**, token bucket–style logic, and per-key limits  
 - Designed as a building block toward **firewall/CDN-style safeguards** and intelligent throttling  
 
-### 🤖 [Personal AI Assistant Backend](https://github.com/sanketbaviskar/personal-ai-assistant)  
+### 🤖 [Personal AI Assistant](https://github.com/sanketbaviskar/personal-ai-assistant)  
 Backend for a unified personal AI that connects apps into a single knowledge pool.  
 - **FastAPI** backend orchestrating calls to open-source LLMs + RAG  
 - Integrates **email, notes, calendar, and tasks** as structured data sources  
