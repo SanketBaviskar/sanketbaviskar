@@ -36,25 +36,7 @@ A Chrome extension that turns YouTube into a focused environment.
 Backend-focused platform for managing professional recreational centers.  
 - Designed RESTful APIs for **bookings, memberships, and facility management**  
 - Built with **Node.js** and a relational database for consistent, reliable state  
-- Emphasis on clean domain modeling, validation, and production-ready structure  
-
----
-
-## 🚀 About Me
-
-- 🎯 **Primary focus:** Backend engineering, distributed systems, and production infrastructure  
-- 🔭 **Currently building:** Rec-It and intelligent rate-limiting + network guard systems  
-- 🌱 **Currently learning:**  
-  - Advanced **networking protocols**  
-  - **Firewalls / CDN patterns** and traffic shaping  
-  - Design of **AI-driven SaaS infrastructure**  
-- 👯 **Open to collaborate on:** Backend-heavy open-source projects in **AI infra, API platforms, and cloud tooling**  
-- 🤔 **Looking for help with:** Strengthening **firewall / CDN capabilities** and best practices for secure edge architectures  
-- 💬 **Ask me about:** Backend design, API performance, caching, rate limiting, and system design  
-- 📫 **Reach me:** Email | LinkedIn | Twitter (X)  
-- ⚡ **Fun fact:** I enjoy building **3D models in PowerPoint** to explain system design and architecture.  
-
----
+- Emphasis on clean domain modeling, validation, and production-ready structure 
 
 ## 🌐 Socials
 
