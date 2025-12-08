@@ -38,18 +38,6 @@ Backend-focused platform for managing professional recreational centers.
 - Built with **Node.js** and a relational database for consistent, reliable state  
 - Emphasis on clean domain modeling, validation, and production-ready structure 
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-baviskar)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/therandomindianguy)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanketsharad.baviskar@ucdenver.edu)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanketBaviskar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therandomindianguy)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanketbaviskar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 🧩 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mastrboy?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap)
 
