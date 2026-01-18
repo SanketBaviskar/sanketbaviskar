@@ -2,7 +2,7 @@
 
 🔗 Portfolio: [https://sanket-portfolio-phi.vercel.app/](https://sanket-portfolio-phi.vercel.app/)
 
-Hi, I’m **Sanket Baviskar** a **Backend & Infrastructure Software Engineer** with **2+ years of experience** building **scalable, fault-tolerant backend services and distributed systems**.
+Hi, I’m **Sanket Baviskar** a **Backend & Infrastructure Software Engineer** with experience in building **scalable, fault-tolerant backend services and distributed systems**.
 
 I specialize in designing and operating **cloud-native APIs, data pipelines, and infrastructure services** that are reliable under load and easy for developers to build on. I’ve worked in fast-paced product environments, owning systems **end-to-end** from architecture and implementation to deployment, monitoring, and iteration.
 
